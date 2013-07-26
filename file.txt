@@ -1,2 +1,3 @@
-lin1\lin2
-line 3
+lin1\
+ine 3
+remove lines
